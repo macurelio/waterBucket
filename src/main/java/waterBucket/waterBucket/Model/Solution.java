@@ -8,6 +8,7 @@ import lombok.Data;
         private int step;
         private int bucketX;
         private int bucketY;
+        private int zAmountWanted;
         private String action;
     }
 
